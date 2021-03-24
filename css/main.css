@@ -1,0 +1,105 @@
+body{
+  padding-top: 0px;
+}
+.headerWraper{
+ margin-top: 70px 0px 0px 0px;
+ height: 300px;
+ width: 100%;
+}
+.imgthumb{
+  width:auto;
+  height:200px;
+  padding-left: 0px;
+}
+
+
+
+.offers{
+  margin-top: 68px;
+  height: 300px;
+  width: auto;
+}
+
+
+/*product image at details dilogue box*/
+#details{
+  margin: 15px auto;
+  width: 50%;
+
+}
+
+/*style for contents bellow the offers image*/
+.contents{
+  margin-top: 10px;
+}
+
+
+/*footer*/
+/*FOOTER START///////////////////*/
+.footer {
+    padding: 50px 0 20px 0;
+    background-color: #090c14;
+    color: #878c94;
+}
+.footer .title{
+	text-align: left;
+	color:#fff;
+	font-size:25px;
+}
+.footer .social-icon{
+	padding:0px;
+	margin:0px;
+}
+.footer .social-icon a{
+	display:inline-block;
+	color:#fff;
+	font-size:25px;
+	padding:5px;
+}
+.footer .acount-icon a{
+	display:block;
+	color:#fff;
+	font-size:18px;
+	padding:5px;
+	text-decoration:none;
+}
+.footer .acount-icon .fa{
+	margin-right:25px;
+}
+.footer .category a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 1px;
+    border-radius:4px;
+    margin-top: 6px;
+    background-color: black;
+    border: solid 1px #fff;
+}
+.footer .payment{
+	margin:0px;
+	padding:0px;
+	list-style-type:none
+}
+.footer .payment li{
+	list-style-type:none
+}
+.footer .payment li a {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    float: left;
+    font-size: 25px;
+    padding: 10px 10px;
+}
+/*footer* ends/
+
+/*password eye icon to fit inside of input biox*/
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
